@@ -10,3 +10,4 @@ This is a simple Streamlit web app that detects spam messages using a machine le
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+streamlit run spam_app.py
